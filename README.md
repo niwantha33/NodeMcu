@@ -1,11 +1,11 @@
 # NodeMcu
 Documents which required before installing of NodeMcu Dev board 
 
-# Install CP210x Driver 
+## Install CP210x Driver 
 ```sh
 https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx
 ```
-# Arduino Board manager  : 
+##Arduino Board manager  : 
 
 ![1st Step](https://github.com/niwantha33/NodeMcu/blob/master/preferences.png)
 
@@ -13,7 +13,7 @@ Copy and past to additional boards manager URL in preferences
 ```sh
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
-# Arduino Tool : 
+##Arduino Tool : 
 
 ![2nd Step](https://github.com/niwantha33/NodeMcu/blob/master/tool.png)
 
